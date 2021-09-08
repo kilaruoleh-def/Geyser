@@ -11,7 +11,7 @@
     <artifactId>connector</artifactId>
 
     <properties>
-        <adventure.version>4.8.0</adventure.version>
+        <adventure.version>4.8.1</adventure.version>
         <fastutil.version>8.5.2</fastutil.version>
         <jackson.version>2.12.4</jackson.version>
         <netty.version>4.1.66.Final</netty.version>
